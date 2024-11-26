@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good evening
+=======
+hiii
+>>>>>>> 4a5a145 (modify files in folder2)
